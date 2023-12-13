@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/coboct-renew/static/css/main.7d9b7f8a.css",
-    "main.js": "/coboct-renew/static/js/main.9308c349.js",
+    "main.css": "/coboct-renew/static/css/main.aa8d64fb.css",
+    "main.js": "/coboct-renew/static/js/main.8edb7609.js",
     "index.html": "/coboct-renew/index.html",
-    "main.7d9b7f8a.css.map": "/coboct-renew/static/css/main.7d9b7f8a.css.map",
-    "main.9308c349.js.map": "/coboct-renew/static/js/main.9308c349.js.map"
+    "main.aa8d64fb.css.map": "/coboct-renew/static/css/main.aa8d64fb.css.map",
+    "main.8edb7609.js.map": "/coboct-renew/static/js/main.8edb7609.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d9b7f8a.css",
-    "static/js/main.9308c349.js"
+    "static/css/main.aa8d64fb.css",
+    "static/js/main.8edb7609.js"
   ]
 }
