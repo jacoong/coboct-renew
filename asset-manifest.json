@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coboct-renew/static/css/main.d4365c7e.css",
-    "main.js": "/coboct-renew/static/js/main.3b63e468.js",
+    "main.css": "/coboct-renew/static/css/main.58c04cbb.css",
+    "main.js": "/coboct-renew/static/js/main.efe0156b.js",
     "static/media/slick.svg": "/coboct-renew/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/coboct-renew/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/coboct-renew/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/coboct-renew/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/coboct-renew/index.html",
-    "main.d4365c7e.css.map": "/coboct-renew/static/css/main.d4365c7e.css.map",
-    "main.3b63e468.js.map": "/coboct-renew/static/js/main.3b63e468.js.map"
+    "main.58c04cbb.css.map": "/coboct-renew/static/css/main.58c04cbb.css.map",
+    "main.efe0156b.js.map": "/coboct-renew/static/js/main.efe0156b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4365c7e.css",
-    "static/js/main.3b63e468.js"
+    "static/css/main.58c04cbb.css",
+    "static/js/main.efe0156b.js"
   ]
 }
